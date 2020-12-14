@@ -9,7 +9,7 @@ Khmer Coders is a friendly Cambodian programmer community. This is collection of
 
 ### Cambodian Open Source Projects
 
-| Project<img width=300/> | Author<img width=150/> | Description
+| Project<img width=300/> | Author<img width=200/> | Description<br/><img width=1/>
 | --- | --- | --- |
 | [Khmer Word Segmentation](https://github.com/rinabuoy/KhmerNLP) | Rina Bouy| Word segmentation on Khmer texts is a challenging task since in Khmer texts, there is no explicit word delimiters such as a space.
 | [Khmer Word Segmentation](https://github.com/RathanakSreang/KhmerWordSegmentation) | Rathanak Sreang | Unlike other languages, Khmer Word Segmentation is way more complected. Because the Khmer language does not have any standard rule on how we are using space to separate between each word ... |

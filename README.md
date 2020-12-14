@@ -7,17 +7,22 @@ Khmer Coders is a friendly Cambodian programmer community. This is collection of
 - [**Discord**](https://discordapp.com/invite/aebeNTE)
 - [**Telegram**](https://t.me/KhmerCoders)
 
+---
+
 ### Cambodian Open Source Projects
 
-| Project | Description |
-| --- | --- |
-| [Khmer Word Segmentation](https://github.com/rinabuoy/KhmerNLP)<br/>**Rina Bouy** | Word segmentation on Khmer texts is a challenging task since in Khmer texts, there is no explicit word delimiters such as a space.
-| [Khmer Word Segmentation](https://github.com/RathanakSreang/KhmerWordSegmentation)<br />**Rathanak Sreang** | Unlike other languages, Khmer Word Segmentation is way more complected. Because the Khmer language does not have any standard rule on how we are using space to separate between each word ... |
-| [Cambodia Covid19 Tracker](https://github.com/RathanakSreang/cambodia-covid19-tracker)<br />**Rathanak Sreang** | Covid19KH is a project for sharing information related to Covid19 in Cambodia. |
-| [Khmer Name Generator](https://github.com/sambatlim/khmer-name-generator)<br />**Sambat Lim** | This package is able to generate real khmer name in khmer alphabets(Unicode range: U+1780–U+17FF Khmer; U+19E0–U+19FF Khmer Symbols) and cambodia province name with city including Lat Long |
-| [khmer-quotes-extension](https://github.com/LyhourChhen/khmer-quotes-extension)<br />**Lyhour Chhen** | Render Qoutes in Khmer everytime you open new tabs. |
-| <img width=450 /> | |
+#### Natural Language Processing
+- [Khmer Word Segmentation](https://github.com/rinabuoy/KhmerNLP) (**Rina Bouy**) - Word segmentation on Khmer texts
+- [Khmer Word Segmentation](https://github.com/RathanakSreang/KhmerWordSegmentation) (**Rathanak Sreang**) - Word segmentation on Khmer texts
 
+#### Other
+
+- [Khmer Name Generator](https://github.com/sambatlim/khmer-name-generator) (**Sambat Lim**) - This package is able to generate real khmer name in khmer alphabets
+- [khmer-quotes-extension](https://github.com/LyhourChhen/khmer-quotes-extension) (**Lyhour Chhen**) - Render Qoutes in Khmer everytime you open new tabs.
+
+#### Health Projects
+- [Cambodia Covid19 Tracker](https://github.com/RathanakSreang/cambodia-covid19-tracker) (**Rathanak Sreang**) - Covid19KH is a project for sharing information related to Covid19 in Cambodia.
+- [Cambodia Covid Report](https://github.com/chunlee-thong/kh_covid_report) (**Chunlee Thong**) - Cambodia covid case report app made with Flutter
 ----
 
 ### Our Member Channel

@@ -12,6 +12,8 @@ Khmer Coders is a friendly Cambodian programmer community. This is collection of
 | Project | Author | Description
 | --- | --- | --- |
 | [Khmer Word Segmentation](https://github.com/rinabuoy/KhmerNLP) | Rina Bouy| Word segmentation on Khmer texts is a challenging task since in Khmer texts, there is no explicit word delimiters such as a space.
+| [Khmer Word Segmentation](https://github.com/RathanakSreang/KhmerWordSegmentation) | Rathanak Sreang | Unlike other languages, Khmer Word Segmentation is way more complected. Because the Khmer language does not have any standard rule on how we are using space to separate between each word ... |
+| [Cambodia Covid19 Tracker](https://github.com/RathanakSreang/cambodia-covid19-tracker) | Rathanak Sreang | Covid19KH is a project for sharing information related to Covid19 in Cambodia. |
 
 ----
 

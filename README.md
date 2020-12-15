@@ -44,4 +44,11 @@ This is good place for showcase your channel to our members.
 ---
 
 ### Useful Learning Materials
-*Useful Learning Material coming soon*
+
+#### Javascript
+
+- [You Don't Know JS - 1st Edition](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed)
+<br />*This is a series of books diving deep into the core mechanisms of the JavaScript language.*
+
+- [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+<br />*A mostly reasonable approach to JavaScript*

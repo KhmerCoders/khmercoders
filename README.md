@@ -44,4 +44,7 @@ This is good place for showcase your channel to our members.
 ---
 
 ### Useful Learning Materials
-*Useful Learning Material coming soon*
+
+#### Javascript
+
+- [You Don't Know JS - 1st Edition](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed)

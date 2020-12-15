@@ -50,5 +50,8 @@ This is good place for showcase your channel to our members.
 - [You Don't Know JS - 1st Edition](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed)
 <br />*This is a series of books diving deep into the core mechanisms of the JavaScript language.*
 
+- [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
+<br />*This repository contains JavaScript based examples of many popular algorithms and data structures.*
+
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
-<br />*A mostly reasonable approach to JavaScript*
+<br />*A mostly reasonable approach to JavaScript.*

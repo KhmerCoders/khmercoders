@@ -15,6 +15,9 @@ Khmer Coders is a friendly Cambodian programmer community. This is collection of
 - [Khmer Word Segmentation](https://github.com/rinabuoy/KhmerNLP) (**Rina Bouy**) - Word segmentation on Khmer texts
 - [Khmer Word Segmentation](https://github.com/RathanakSreang/KhmerWordSegmentation) (**Rathanak Sreang**) - Word segmentation on Khmer texts
 
+#### Object Detection
+- [Yolov5 Jupyterlab](https://github.com/NanoCode012/yolov5-jupyterlab) (**Chanvichet Vong**) - Yolov5 with JupyterLab functionality on Docker
+
 #### Other
 
 - [Khmer Name Generator](https://github.com/sambatlim/khmer-name-generator) (**Sambat Lim**) - This package is able to generate real khmer name in khmer alphabets
